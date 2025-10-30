@@ -46,9 +46,3 @@ It includes:
 - Choice depends on whether **memory flexibility** or **speed** is more important.
 
 ---
-
-## Instructions
-1. Compile the `.cpp` file in Dev C++.  
-2. Run the program and follow prompts to see outputs.  
-3. Both iterative solutions replace the original recursive methods.
-

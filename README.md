@@ -2,7 +2,8 @@
 
 **Name:** Hafsa  
 **Roll No:** 24i-5676  
-**Course:** Object-Oriented Programming  
+**Course:** Object-Oriented Programming
+**Section:** FT-3A
 **University:** FAST–NU Islamabad Campus  
 
 ---
